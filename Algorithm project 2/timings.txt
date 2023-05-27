@@ -1,0 +1,330 @@
+
+FOR 100.txt
+
+
+----------------------------Linear List---------------------------------
+
+Elapsed time for dictionary read: 33 ms
+
+Elapsed time for words check: 429 ms
+
+
+----------------------------BBST---------------------------------
+
+Elapsed time for dictionary read: 263 ms
+
+Elapsed time for words check: 1 ms
+
+
+----------------------------HashMap---------------------------------
+
+Elapsed time for dictionary read: 3538 ms
+
+Elapsed time for words check: 4 ms
+
+
+----------------------------Trie---------------------------------
+
+Elapsed time for dictionary read: 171 ms
+
+Elapsed time for words check: 1 ms
+
+FOR 1000.txt
+
+
+----------------------------Linear List---------------------------------
+
+Elapsed time for dictionary read: 34 ms
+
+
+Elapsed time for words check: 4288 ms
+
+
+----------------------------BBST---------------------------------
+
+Elapsed time for dictionary read: 263 ms
+
+Elapsed time for words check: 17 ms
+
+
+----------------------------HashMap---------------------------------
+
+Elapsed time for dictionary read: 3522 ms
+
+ferrars not found!
+Elapsed time for words check: 65 ms
+
+
+----------------------------Trie---------------------------------
+
+Elapsed time for dictionary read: 171 ms
+
+Elapsed time for words check: 13 ms
+
+FOR 2000.txt
+
+
+----------------------------Linear List---------------------------------
+
+Elapsed time for dictionary read: 42 ms
+
+Elapsed time for words check: 8664 ms
+
+
+----------------------------BBST---------------------------------
+
+Elapsed time for dictionary read: 266 ms
+
+Elapsed time for words check: 29 ms
+
+
+----------------------------HashMap---------------------------------
+
+Elapsed time for dictionary read: 3753 ms
+
+Elapsed time for words check: 141 ms
+
+
+----------------------------Trie---------------------------------
+
+Elapsed time for dictionary read: 183 ms
+
+Elapsed time for words check: 31 ms
+
+FOR 3000.txt
+
+
+----------------------------Linear List---------------------------------
+
+Elapsed time for dictionary read: 48 ms
+
+Elapsed time for words check: 13257 ms
+
+
+----------------------------BBST---------------------------------
+
+Elapsed time for dictionary read: 263 ms
+
+Elapsed time for words check: 49 ms
+
+
+----------------------------HashMap---------------------------------
+
+Elapsed time for dictionary read: 3548 ms
+
+Elapsed time for words check: 187 ms
+
+
+----------------------------Trie---------------------------------
+
+Elapsed time for dictionary read: 171 ms
+
+Elapsed time for words check: 38 ms
+
+FOR 4000.txt
+
+
+----------------------------Linear List---------------------------------
+
+Elapsed time for dictionary read: 34 ms
+
+Elapsed time for words check: 17746 ms
+
+
+----------------------------BBST---------------------------------
+
+Elapsed time for dictionary read: 271 ms
+
+Elapsed time for words check: 71 ms
+
+
+----------------------------HashMap---------------------------------
+
+Elapsed time for dictionary read: 3770 ms
+
+Elapsed time for words check: 267 ms
+
+
+----------------------------Trie---------------------------------
+
+Elapsed time for dictionary read: 172 ms
+
+Elapsed time for words check: 58 ms
+
+FOR 5000.txt
+
+
+----------------------------Linear List---------------------------------
+
+Elapsed time for dictionary read: 34 ms
+
+Elapsed time for words check: 25996 ms
+
+
+----------------------------BBST---------------------------------
+
+Elapsed time for dictionary read: 261 ms
+
+Elapsed time for words check: 78 ms
+
+
+----------------------------HashMap---------------------------------
+
+Elapsed time for dictionary read: 3547 ms
+
+Elapsed time for words check: 377 ms
+
+
+----------------------------Trie---------------------------------
+
+Elapsed time for dictionary read: 173 ms
+
+Elapsed time for words check: 68 ms
+
+FOR 6000.txt
+
+
+----------------------------Linear List---------------------------------
+
+Elapsed time for dictionary read: 35 ms
+
+Elapsed time for words check: 25577 ms
+
+
+----------------------------BBST---------------------------------
+
+Elapsed time for dictionary read: 268 ms
+
+Elapsed time for words check: 93 ms
+
+
+----------------------------HashMap---------------------------------
+
+Elapsed time for dictionary read: 3813 ms
+
+Elapsed time for words check: 405 ms
+
+
+----------------------------Trie---------------------------------
+
+Elapsed time for dictionary read: 191 ms
+
+Elapsed time for words check: 85 ms
+
+FOR 7000.txt
+
+
+----------------------------Linear List---------------------------------
+
+Elapsed time for dictionary read: 47 ms
+
+Elapsed time for words check: 39447 ms
+
+
+----------------------------BBST---------------------------------
+
+Elapsed time for dictionary read: 280 ms
+
+Elapsed time for words check: 483 ms
+
+
+----------------------------HashMap---------------------------------
+
+Elapsed time for dictionary read: 3480 ms
+
+Elapsed time for words check: 1476 ms
+
+
+----------------------------Trie---------------------------------
+
+Elapsed time for dictionary read: 219 ms
+
+Elapsed time for words check: 380 ms
+
+FOR 8000.txt
+
+
+----------------------------Linear List---------------------------------
+
+Elapsed time for dictionary read: 62 ms
+
+Elapsed time for words check: 37302 ms
+
+
+----------------------------BBST---------------------------------
+
+Elapsed time for dictionary read: 271 ms
+
+Elapsed time for words check: 411 ms
+
+
+----------------------------HashMap---------------------------------
+
+Elapsed time for dictionary read: 4104 ms
+
+Elapsed time for words check: 1450 ms
+
+
+----------------------------Trie---------------------------------
+
+Elapsed time for dictionary read: 185 ms
+
+Elapsed time for words check: 244 ms
+
+FOR 9000.txt
+
+
+----------------------------Linear List---------------------------------
+
+Elapsed time for dictionary read: 44 ms
+
+Elapsed time for words check: 46104 ms
+
+
+----------------------------BBST---------------------------------
+
+Elapsed time for dictionary read: 281 ms
+
+Elapsed time for words check: 453 ms
+
+
+----------------------------HashMap---------------------------------
+
+Elapsed time for dictionary read: 3482 ms
+Elapsed time for words check: 1093 ms
+
+
+----------------------------Trie---------------------------------
+
+Elapsed time for dictionary read: 226 ms
+Elapsed time for words check: 351 ms
+
+
+FOR 10000.txt
+
+----------------------------Linear List---------------------------------
+
+Elapsed time for dictionary read: 97 ms
+
+Elapsed time for words check: 156846 ms
+
+
+----------------------------BBST---------------------------------
+
+Elapsed time for dictionary read: 651 ms
+
+Elapsed time for words check: 204 ms
+
+
+----------------------------HashMap---------------------------------
+
+Elapsed time for dictionary read: 4829 ms
+
+Elapsed time for words check: 697 ms
+
+
+----------------------------Trie---------------------------------
+
+Elapsed time for dictionary read: 180 ms
+
+Elapsed time for words check: 165 ms
